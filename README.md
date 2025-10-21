@@ -162,7 +162,7 @@ kubectl get ingress -n react-microk8s
 Test site inside server:
 
 ```bash
-curl http://sagarkakkala.shop
+curl http://baljeesi.shop
 ```
 
 ---
@@ -173,21 +173,8 @@ curl http://sagarkakkala.shop
 2. Copy your AWS EC2 **Public IP**.
 3. Go to GoDaddy Dashboard → My Products → Domain → DNS.
 4. Edit the **A Record** and set your EC2 public IP.
-5. Access your app at: **[http://sagarkakkala.shop](http://sagarkakkala.shop)**
+   
 
 **Note:** EC2 public IP changes after instance restart. To make it static, use **Elastic IP** (may incur cost).
 
----
 
-
-## Connect with Me
-
-* [📺 YouTube - Sagar Kakkala's World](https://www.youtube.com/@sagarkakkala)
-* [📁 20 Day-DevOps to GitOps Project (YouTube Playlist)](https://www.youtube.com/playlist?list=PLlMNTzKKV4R585f9o-Og8Cd4V9sc6w8yA)
-* [💼 LinkedIn - Sagar Kakkala](https://www.linkedin.com/in/sagar-kakkala)
-* [📝 Blog - Sagar Kakkala's World](https://www.sagarkakkalasworld.com/p/contents-of-blog-sagar-kakkalas-world.html)
-* [🌐 One Stop - Linktree](https://linktr.ee/sagar_kakkalas_world)
-
----
-
-🖊 **Feedback, queries, and suggestions are welcome in the comments!**
